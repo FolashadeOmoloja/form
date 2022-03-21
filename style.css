@@ -1,0 +1,75 @@
+body{
+    
+    background: url("bg-intro-desktop.png") rgb(219, 93, 93);
+}
+
+
+section.container-a1{
+    width: 85%;
+    margin: auto;
+  
+}
+
+.textwords{
+    margin-top: 15rem;
+    padding-right: 5rem;
+    color: white;
+}
+
+.textwords h1{
+    font-size:60px;
+    margin-bottom: 30px;
+}
+
+.textwords p{
+    line-height: 1.5;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.container-b1{
+    margin-top: 4rem;
+}
+
+.container-a{
+    height: 12%;
+    width: 100%;
+    border-radius: 5px;
+    background: #6055a5;
+    font-size: 1rem;
+    color: white;
+    /* padding: 10px auto; */
+    text-align: center;
+}
+
+.container-a p{
+    padding-top: 10px;
+}
+
+.container-b{
+    background-color: white;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+.container-b input{
+    margin-bottom: 20px;
+    height: 3rem;
+    padding: 25px;
+    border: 1px solid rgb(54, 54, 54);
+    font-weight: 500;
+}
+.container-b input::placeholder{
+    color: black;
+}
+
+.button-1{
+    width: 100%;
+    background-color: #38cc8c;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 16px;
+    margin-bottom: 2rem;
+}
